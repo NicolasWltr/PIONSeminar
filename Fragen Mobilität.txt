@@ -1,0 +1,44 @@
+Fragen:
+Um welche Parkplätze genau handelt es sich? Die kostenlosen? Die Parkhäuser? erstmal fokus auf Parkhäuser/wvv -> beschrankt, innerhalb ringpark
+Daten, wie stark Parksuchverkehr, wie wird es gemessen?
+Was ist das exakte Problem?
+Was genau wird von uns erwartet? Konzept parkplatzbuchungssystem, wie kann es in Anwendung aussehen (in app?)
+Was genau ist die Ausgangslage, woher stammen die Statistiken?
+Können wir die Daten für den Parksuchverkehr bekommen?
+
+
+gut für körperlich eingeschränkte personen
+
+oberflächenparkplätze? straßenbegleitende parkplätze/parkscheinautomat -> keine Messung wie gut ausgelastet
+
+alles beschrankte ist im parkleitsystem
+
+wie soll Endprodukt aussehen?
+
+gut für Personen von außerhalb, die auf Auto angewiesen sind
+
+Einzelhandel -> schwierige Erreichbarkeit
+
+parkplätze entfernen, dafür Kompensation: außerhalb? angst soll genommen werden, Parkplatz zu suchen
+-> Begrünung von oberflächenparkplätzen, die dafür entfallen könnten
+
+
+buchungssystem, wie könnte es konfiguriert werden, finanzielle Aspekte, Auswirkungen auf die Auslastung der Parkhäuser, Verfügbarkeit/Erreichbarkeit
+
+welche Möglichkeiten gibt es, parken effizienter zu machen?
+
+zb supermarktplätze weiternutzen, zb nachts
+
+
+
+---
+Endprodukt: Prototyp für Buchungsapp (Web im Vordergrund, dann app) und welche anderen Möglichkeiten gibt es?
+30% des verkehrs in Städten, ist parksuchverkehr -> nochmal recherchieren
+welche art von parksuchverkehr? nach kostenlosen Parkplätzen oder nach Parkhäusern?
+
+wo kommt die Einschätzung von schlechter Erreichbarkeit her?
+
+kleinen Zeitplan erstellen, bis wann wir was alles haben wollen?
+einen zwischenstand zusenden zwischen zwischenpräsi
+
+-> aufgabe zum nächsten mal recherche
