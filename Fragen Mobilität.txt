@@ -42,3 +42,63 @@ kleinen Zeitplan erstellen, bis wann wir was alles haben wollen?
 einen zwischenstand zusenden zwischen zwischenpräsi
 
 -> aufgabe zum nächsten mal recherche
+
+
+----
+Meeting 07.05.25, Ref: https://help.parkbee.com/de/
+
+Anforderungen:
+
+- Parkhausspezifisches Buchen
+- Vorschlagen von Parkhäusern, die in der Nähe von gewählten Punkt sind
+
+Für Touristen:
+
+- In der Nähe von Zentrum
+- (Umfunktionieren von Dauerparkplätzen? Für kürzere Zeit)
+- Evtl. mehrere Tage reservieren? Ein und Ausfahren soll möglich sein
+- Fähig sein längeren Zeitraum im Voraus parken zu können
+- Vergünstigung online
+- Website, App doof zu holen
+- Kostenloses/vergünstigtes Öffi Ticket
+- Kennzeichenerkennung -> online Öffi Ticket/Buchungsbestätigung
+- Mit Karte -> anfahrtsplan
+- Ohne Registrierung
+
+Für Einwohner:
+- Dauerparken über App buchbar
+- Möglichkeit sich anzumelden
+
+Leute aus Umgebung:
+- zuhause buchen/losfahren -> spontanes Buchen
+- wiederholende Buchung, d.h. man möchte wöchentlich zu einer spezifischen zeit buchen -> Parkabo! Mit Unterbrechungen, wenn man es zb nicht braucht
+- Möglichkeit sich anzumelden
+
+WVV:
+- eine Art Kaution online hinterlegen, die man zurückbekommt, wenn man Parkplatz nutzt -> geht verloren, wenn man nicht storniert und nicht auftaucht
+- dynamische Kautionerstattung bei Stornierung, dh je kurzfristiger Stornierung, desto weniger Kaution zurück
+- evtl geringe Rückerstattung bei spontanem Buchen
+- "Leerzeiten" von gebuchten Zeiten minimieren
+- Sicherstellung, dass Plätze frei werden -> Deadline bis wann man rausmuss
+- dynamisch? Teil spontane Parkplätze/Teil auf zeit reservierte Parkplätze
+
+
+- Behindertenparkplatz/Frauen/MutterKind/Höhe etc. suchen können -> Parkplatzart filtern
+- Parkhaushöhe! Man muss mit Auto reinkommen
+- Plätze Buchen für garantiertes Parken
+- Weiterhin spontan Parken können
+- Auch online unlimitierte Parkdauer
+- Kennzeichenerkennung?
+- Stornierbarkeit
+- Parkenapp/website erweitern
+- Erinnerung, dass Parkzeitraum bald abläuft
+- Ohne Registrierung, trotzdem Möglichkeit sich anzumelden für mehrfahrnutzer
+- Bezahlmethoden? Am Automaten per Kennzeichen? Auch online möglich zb für längere/flexible Buchungen mit rein und rausfahren
+- eine Art Kaution online hinterlegen, die man zurückbekommt, wenn man Parkplatz nutzt -> geht verloren, wenn man nicht storniert und nicht auftaucht
+- Buchung änderbar, dh. Zeiten können angepasst werden
+- Puffer? Ref Parkbee: man kann zb viertel Stunde vorher/nachher da sein
+
+Bis zum nächsten mal:
+- J+Ni: Lösungsansätze -> Probleme und Lösungen finden
+- Na: Recherche
+
