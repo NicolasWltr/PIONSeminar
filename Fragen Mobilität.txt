@@ -51,6 +51,8 @@ Anforderungen:
 
 - Parkhausspezifisches Buchen
 - Vorschlagen von Parkhäusern, die in der Nähe von gewählten Punkt sind
+    -> Am besten abgebildet auf einer Karte damit man besser einschätzen kann wo das Parkhaus ist
+    -> Ggf. direkt den Preis zum parken mit auf der Karte anzeigen damit man auch preislich entscheiden kann wo man parken will
 
 Für Touristen:
 
@@ -61,9 +63,14 @@ Für Touristen:
 - Vergünstigung online
 - Website, App doof zu holen
 - Kostenloses/vergünstigtes Öffi Ticket
+    -> hierfür ist zwingend eine Buchungsbestätigung nötig
+    -> Tages Ticket? Oder nur für die Parkdauer?
+        -> Abhängig davon ob man nur für einen Zeitraum bucht oder endlos?
 - Kennzeichenerkennung -> online Öffi Ticket/Buchungsbestätigung
+    -> Als Backup evtl. trotzdem die Möglichkeit über ein Ticket einfahren zu können z.B. für Kennzeichen die nicht dem Schema von deutschen Kennzeichen folgen und deswegen evtl. nicht gescannt werden können?
 - Mit Karte -> anfahrtsplan
 - Ohne Registrierung
+    -> Alle relevanten Informationen und Änderungen können über die bei der Buchung angegebene Email Adresse und die Buchungsnummer angezeigt / gemacht werden
 
 Für Einwohner:
 - Dauerparken über App buchbar
@@ -72,20 +79,32 @@ Für Einwohner:
 Leute aus Umgebung:
 - zuhause buchen/losfahren -> spontanes Buchen
 - wiederholende Buchung, d.h. man möchte wöchentlich zu einer spezifischen zeit buchen -> Parkabo! Mit Unterbrechungen, wenn man es zb nicht braucht
+    -> Ab der Buchung wird der Parkplatz zu der gebuchten Zeit für immer reserviert
+    -> Was passiert wenn an einem oder mehreren Tagen im Abo das Parkhaus schon ausgebucht war?
 - Möglichkeit sich anzumelden
 
 WVV:
 - eine Art Kaution online hinterlegen, die man zurückbekommt, wenn man Parkplatz nutzt -> geht verloren, wenn man nicht storniert und nicht auftaucht
 - dynamische Kautionerstattung bei Stornierung, dh je kurzfristiger Stornierung, desto weniger Kaution zurück
+    -> Erstattung sollte trotzdem relativ hoch sein auch wenn erst kurzfristig storniert wird (Besser der Parkplatz ist frei als dass er wegen der Buchung nich genutzt werden kann)
 - evtl geringe Rückerstattung bei spontanem Buchen
 - "Leerzeiten" von gebuchten Zeiten minimieren
 - Sicherstellung, dass Plätze frei werden -> Deadline bis wann man rausmuss
+    -> Dynamische Verteilung der Parkplätze in zeitlich begrenzte und zeitlich unbegrenzte Parkplätze:
+        - Sowohl für online Buchungungen als auch für spontan Buchungen muss angegeben werden wie lange geparkt wird, damit vernünftig im vorraus gebucht werden kann, da man sonst nicht sicherstellen kann, dass belegte Plätze bis zu einer Buchung auch wieder frei sind
+        - Gegen Aufpreis kann man dann auch endlos parken mit folgenden Bedingungen (Sowohl bei Online Buchungungen als auch bei spontanen besuchen):
+            - Die Parkplätze die aktuell endlos beparkt werden können nicht online gebucht werden und sind damit quasi reserviert bis der Parkplatz wieder frei ist
+            - Es kann nur endlos geparkt werden wenn es in (naher) Zukunft nicht schon zu viele reservierungen gibt
+    -> Evtl. ein paar puffer parkplätze die nicht in die parkplatz zahl mit einzählen damit bei leichten überschreitungen noch plätze frei sind
+        -> Aber verhältnis mäßig höhere Nachzahlungen wenn zeitlich begrenzter parkplatz ungebucht deutlich länger genutzt wird (ParkBee hat hier z.B. auch erstmal eine viertel Stunde die man kostenfrei länger bleiben kann)
 - dynamisch? Teil spontane Parkplätze/Teil auf zeit reservierte Parkplätze
 
-
 - Behindertenparkplatz/Frauen/MutterKind/Höhe etc. suchen können -> Parkplatzart filtern
+    -> Nur möglich wenn man immer einen speziellen Parkplatz (bzw. eine Parkplatz kategorie) im Parkhaus zugewiesen bekommt (sowohl bei Online Buchung als auch bei spontanem Besuch)
 - Parkhaushöhe! Man muss mit Auto reinkommen
+    -> ggf. die Parkhöhen für jeden Parkplatz, wenn z.B. auf verschiedenen Ebenen unterschiedliche Deckenhöhen sind, damit größere Autos die Parkplätze buchen können, für die die Deckenhöhe hoch genug ist
 - Plätze Buchen für garantiertes Parken
+
 - Weiterhin spontan Parken können
 - Auch online unlimitierte Parkdauer
 - Kennzeichenerkennung?
@@ -96,7 +115,12 @@ WVV:
 - Bezahlmethoden? Am Automaten per Kennzeichen? Auch online möglich zb für längere/flexible Buchungen mit rein und rausfahren
 - eine Art Kaution online hinterlegen, die man zurückbekommt, wenn man Parkplatz nutzt -> geht verloren, wenn man nicht storniert und nicht auftaucht
 - Buchung änderbar, dh. Zeiten können angepasst werden
+    -> Sowohl spontan parkende als auch gebuchte parkplätze können auf der website (und ggf auch an automaten am parkhaus) zeitlich verlängert werden, wenn der platz noch frei ist (solange möglich bis parkzeit abgelaufen ist)
+    -> ParkBee verlängert so weit ich das verstanden hab sogar automatisch allerdings weis ich nicht was passiert wenn nicht verlängert werden kann aber man trotzdem weiterhin auf dem parkplatz bleibt
 - Puffer? Ref Parkbee: man kann zb viertel Stunde vorher/nachher da sein
+
+- Für spontanes Parken muss am Parkhaus ersichtlich sein ob es noch zeitlich (un)begrenzte Parkplätze gibt
+- Außerdem muss für die zeitlich begrenzten Parkplätze angezeigt werden, was die längst mögliche buchungsdauer ist
 
 Bis zum nächsten mal:
 - J+Ni: Lösungsansätze -> Probleme und Lösungen finden
